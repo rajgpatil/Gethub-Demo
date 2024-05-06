@@ -1,2 +1,2 @@
 # Gethub-Demo
-Github Demo class
+Github Demo class.
